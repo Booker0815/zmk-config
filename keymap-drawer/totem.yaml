@@ -56,7 +56,7 @@ layers:
   - LEFT ALT
   - '`'
   - +
-  - {t: '4', h: RIGHT ALT}
+  - {t: '5', h: RIGHT ALT}
   - {t: '5', h: RIGHT WIN}
   - {t: '6', h: RIGHT CONTROL}
   - \
